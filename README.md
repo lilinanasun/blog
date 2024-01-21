@@ -1,3 +1,9 @@
-# blog
-coding for blog setup
-last day of 2023, what is the plan???
+---
+layout: post
+title:  "Cozy Sunday morning with Jinton's lullaby"
+---
+
+
+[the spirit song](https://youtu.be/UpmeswMK7cY?si=9KmNHCGwTdMyF-iM)
+
+cool windy morning in this tropical country.
